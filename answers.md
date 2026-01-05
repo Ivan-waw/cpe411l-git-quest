@@ -1,8 +1,10 @@
-LEVEL 1  I can read instructions
+`LEVEL 1 COMPLETE: I can read instructions`
 
-Level 2 Checked repository status using GitHub Desktop.
+## Level 2
+Checked repository status using GitHub Desktop.
 
-LEVEL 3 CLUE: SUNSET-19
+## Level 3
+This file exists only to carry a history clue.
 
 LEVEL 4 COMPLETE: fixed the hallway sign
 
@@ -14,8 +16,4 @@ LEVEL 7 DIFF CHECK
 LEVEL 7 COMPLETE: viewed diff in GitHub Desktop
 
 LEVEL 8 PR LINK: https://github.com/Ivan-waw/cpe411l-git-quest/pull/1
-
-LEVEL 9 MAIN LINE
-
-LEVEL 10 COMPLETE: I submitted my proof
 
