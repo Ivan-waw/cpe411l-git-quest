@@ -10,3 +10,4 @@ LEVEL 4 COMPLETE: fixed the hallway sign
 
 LEVEL 5 COMPLETE: currently on branch student-ivan
 
+LEVEL 6 CHEST CODE: FOX-7
