@@ -15,4 +15,5 @@ LEVEL 6 CHEST CODE: FOX-7
 LEVEL 7 DIFF CHECK
 LEVEL 7 COMPLETE: viewed diff in GitHub Desktop
 
+LEVEL 8 PR LINK: https://github.com/Ivan-waw/cpe411l-git-quest/pull/1
 
