@@ -1,3 +1,22 @@
 `LEVEL 1 COMPLETE: I can read instructions`
 
-LEVEL 9 STUDENT LINE
+## Level 2
+Checked repository status using GitHub Desktop.
+
+## Level 3
+This file exists only to carry a history clue.
+
+LEVEL 4 COMPLETE: fixed the hallway sign
+
+LEVEL 5 COMPLETE: currently on branch student-ivan
+
+LEVEL 6 CHEST CODE: FOX-7
+
+LEVEL 7 DIFF CHECK
+LEVEL 7 COMPLETE: viewed diff in GitHub Desktop
+
+LEVEL 8 PR LINK: https://github.com/Ivan-waw/cpe411l-git-quest/pull/1
+
+
+
+
