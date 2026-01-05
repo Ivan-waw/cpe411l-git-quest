@@ -5,3 +5,8 @@ Checked repository status using GitHub Desktop.
 
 ## Level 3
 This file exists only to carry a history clue.
+
+LEVEL 4 COMPLETE: fixed the hallway sign
+
+LEVEL 5 COMPLETE: currently on branch student-ivan
+
