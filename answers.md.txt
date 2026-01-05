@@ -1,8 +1,6 @@
-
 LEVEL 1  I can read instructions
 
 Level 2 Checked repository status using GitHub Desktop.
-
 
 LEVEL 3 CLUE: SUNSET-19
 
